@@ -7,6 +7,7 @@ module.exports = async (client) => {
         )} ${ChalkAdvanced.green(
           'BOT SUCCESSFULLY STARTED!',
         )}`,
-      );
-    client.user.setActivity('chat for c!help', {type: 'WATCHING'})
+    );
+
+    client.user.setActivity('chat for c!help', { type: 'WATCHING' });
 };
