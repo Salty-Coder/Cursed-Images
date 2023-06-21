@@ -12,7 +12,7 @@
     "chalk-advanced": "^1.0.6",
     "cheerio": "^1.0.0-rc.3",
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.1.2",
     "request": "^2.88.2"
   }
 }
